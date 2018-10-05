@@ -1,4 +1,4 @@
-"""Option 2: leveraging InitVar."""
+"""Attempt 2: leveraging InitVar."""
 
 from dataclasses import dataclass, InitVar
 

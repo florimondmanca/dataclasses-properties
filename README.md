@@ -12,3 +12,13 @@ To run an interpreter using any of the attempts, you can make use of Python's `-
 $ python -i 3_field.py
 >>> # Start doing things with `Vehicle`!
 ```
+
+## Resources
+
+Official documentation on dataclasses and features used in the blog post:
+
+- [The `@dataclass` decorator](https://docs.python.org/3/library/dataclasses.html#dataclasses.dataclass)
+- [The `field()` function](https://docs.python.org/3/library/dataclasses.html#dataclasses.field)
+- [Post-init processing: `__post_init__()`](https://docs.python.org/3/library/dataclasses.html#post-init-processing)
+- [Init-only variables: `InitVar`](https://docs.python.org/3/library/dataclasses.html#init-only-variables)
+- [PEP-557 -- Data Classes](https://www.python.org/dev/peps/pep-0557/)
