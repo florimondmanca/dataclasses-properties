@@ -5,6 +5,7 @@ from dataclasses import dataclass, InitVar
 
 @dataclass
 class Vehicle:
+
     wheels: InitVar[int]
     _wheels: int = None
 

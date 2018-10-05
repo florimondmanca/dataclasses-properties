@@ -5,6 +5,7 @@ from dataclasses import dataclass, InitVar, field
 
 @dataclass
 class Vehicle:
+
     wheels: InitVar[int]
     _wheels: int = field(default=None, repr=False)
 
