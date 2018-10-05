@@ -1,6 +1,6 @@
 # Dataclass properties in Python
 
-This is the supporting repository for "Reconciling Dataclasses And Properties In Python", a blog post published on [my blog](https://blog.florimondmanca.com/reconciling-dataclasses-and-properties-in-python) and [dev.to](https://dev.to).
+This is the supporting repository for "Reconciling Dataclasses And Properties In Python", a blog post published on [my blog](https://blog.florimondmanca.com/reconciling-dataclasses-and-properties-in-python) and [dev.to](https://dev.to/florimondmanca/reconciling-dataclasses-and-properties-in-python-o2k).
 
 The various Python files here are the attempts presented in the blog post to implement properties on dataclasses — which is not an intuitive task.
 
